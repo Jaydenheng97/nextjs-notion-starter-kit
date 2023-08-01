@@ -63,10 +63,10 @@ export default siteConfig({
     {
       title: 'Contact',
       pageId: '002df44bbf604652b17e52cca9b648fe'
-    }
+    },
     {
       title: 'Test',
       link: 'https://www.youtube.com/'
-    },
+    }
   ]
 })
