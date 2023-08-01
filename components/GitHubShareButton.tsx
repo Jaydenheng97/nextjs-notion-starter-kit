@@ -14,7 +14,7 @@ export const GitHubShareButton: React.FC = () => {
       <svg
         width='80'
         height='80'
-        viewBox='0 0 250 250'
+        viewBox='0 0 25000 25000'
         style={{
           fill: '#70B7FD',
           color: '#fff',
