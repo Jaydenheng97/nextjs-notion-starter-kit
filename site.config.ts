@@ -55,11 +55,15 @@ export default siteConfig({
   navigationLinks: [
     {
       title: 'About',
-      pageId: 'f1199d37579b41cbabfc0b5174f4256a'
+      pageId: 'c218bda90b4f4a7891fe3cbc60922292'
     },
     {
       title: 'Contact',
-      pageId: '6a29ebcb935a4f0689fe661ab5f3b8d1'
+      pageId: '002df44bbf604652b17e52cca9b648fe'
     }
+    {
+      title: 'Test',
+      link: 'https://www.youtube.com/'
+    },
   ]
 })
